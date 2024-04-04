@@ -4,11 +4,17 @@ description: Stefan Conrady, Bayesia USA
 
 # 🆕 Webinar: Innovations in Structural Equation Modeling for Key Driver Analysis
 
-To be presented on May 16, 2024, at 11:00 a.m. (EDT).
+May 16, 2024, at 11:00 a.m. (EDT).
+
+### Webinar Registration
+
+{% embed url="https://app.livestorm.co/bayesia/key-driver-analysis?s=3b5566c4-e8d8-47be-aaba-06f651d90dcb" %}
+Click to Register
+{% endembed %}
 
 ### Overview&#x20;
 
-This webinar presents a complete workflow for developing a Probabilistic Structural Equation Model (PSEM) based on Bayesian networks and utilizing the BayesiaLab software platform. Our objective is to identify key drivers of satisfaction with a PSEM that is machine-learned from consumer survey data. A key challenge in this context is to resolve the conflict between "driver" as a causal concept versus the non-causal nature of non-experimental survey data. Furthermore, we illustrate how quantifying the joint probability of hypothetical scenarios is critical for establishing priorities for improving customer satisfaction.
+This webinar presents a complete workflow for developing a Probabilistic Structural Equation Model (PSEM) based on Bayesian networks and utilizing the [BayesiaLab](../bayesialab/) software platform. Our objective is to identify key drivers of satisfaction with a PSEM that is machine-learned from consumer survey data. A key challenge in this context is to resolve the conflict between "driver" as a causal concept versus the non-causal nature of non-experimental survey data. Furthermore, we illustrate how quantifying the joint probability of hypothetical scenarios is critical for establishing priorities for improving customer satisfaction.
 
 ### Background & Theory&#x20;
 
@@ -29,3 +35,15 @@ In this seminar, we present a prototypical PSEM application: key driver analysis
 Given the inherent uncertainty of survey data, we also wish to identify higher-level variables, i.e., “latent” variables that represent concepts that are not directly measured in the survey. We do so by analyzing the relationships between the so-called “manifest” variables, i.e., variables directly measured in the survey. Including such concepts helps build more stable and reliable models than would be possible using manifest variables only.
 
 Our overall objective is to make surveys clearer for researchers to interpret and make them “actionable” for managerial decision-makers. The ultimate goal is to use the generated PSEM to prioritize marketing and product initiatives to maximize purchase intent.
+
+### About the Presenter
+
+Stefan Conrady has over 20 years of experience in decision analysis, analytics, market research, and product strategy with Mercedes-Benz, BMW Group, Rolls-Royce Motor Cars, and Nissan, which included assignments in North America, Europe, and Asia.
+
+Today, as the Managing Partner of Bayesia USA and Bayesia Singapore, he is recognized as a thought leader in applying Bayesian networks to research, analytics, and reasoning.
+
+Recently, Stefan and his colleague Dr. Lionel Jouffe co-authored [Bayesian Networks & BayesiaLab — A Practical Introduction for Researchers](../e-book-bayesian-networks-and-bayesialab-a-practical-introduction-for-researchers/), which is now available as an e-book.
+
+{% embed url="https://app.livestorm.co/bayesia/key-driver-analysis?s=3b5566c4-e8d8-47be-aaba-06f651d90dcb" %}
+Click to Register
+{% endembed %}
