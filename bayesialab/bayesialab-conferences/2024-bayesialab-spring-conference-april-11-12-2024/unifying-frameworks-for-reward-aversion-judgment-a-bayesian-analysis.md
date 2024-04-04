@@ -34,7 +34,7 @@ $$^7$$ Laboratory of Neuroimaging and Genetics, Department of Psychiatry, Massac
 
 Vikram Suresh, Ph.D., has been a Postdoctoral Fellow in the Department of Computer Science at the University of Cincinnati since August 2023. He earned his Ph.D. in Business Administration (Quantitative Economics) from the University of Cincinnati in 2023. His research focuses on combining Bayesian hierarchical modeling, AI, and econometric methods to analyze various topics, including treatment outcomes in adolescents with depression, socioeconomic predictors of treatment outcomes in adults with major depressive disorder, and the impact of age on antidepressant response. He has several publications in peer-reviewed journals and is working on manuscripts related to statistical approaches in randomized controlled trials, income inequality estimation, and the decline in high school student performance using AI experiments.
 
-<figure><img src="https://res.cloudinary.com/dvr3obmlj/image/upload/v1705695934/Photo_1_qreiek.jpg" alt="" width="375"><figcaption><p>Hans C. Breiter, M.D.</p></figcaption></figure>
+<figure><img src="https://res.cloudinary.com/dvr3obmlj/image/upload/v1712255050/Vikram-Suresh_xlcykx.jpg" alt="" width="188"><figcaption><p>Vikram Suresh, Ph.D.</p></figcaption></figure>
 
 {% hint style="info" %}
 Register here for the 2024 BayesiaLab Spring Conference, April 11-12, 2024:
