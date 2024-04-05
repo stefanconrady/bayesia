@@ -1,4 +1,4 @@
-# James Joyce: Ulysse (1929)
+# James Joyce: Ulysses (1922)
 
 
 
@@ -8,7 +8,7 @@ Embark with us on a journey into James Joyce's "Ulysses," a literary masterpiece
 
 ### Workflow for Creating the Semantic Network
 
-* Start by creating the node "Ulysse."&#x20;
+* Start by creating the node "Ulysses"&#x20;
 * Use the **Dimension Elicitor**, employing a broad array of keywords like "Characteristics", "Emotions", "Features", "Strengths, "Traits," and "Weaknesses"  to conduct an exhaustive analysis of the book. Set the **General Context** to "James Joyce."
 * Inspect the dimensions returned by Hellixia and eliminate any that seem superfluous or unrelated to your analysis. Next, disregard the "Ulysse" node and run the **Embedding Generator** on all remaining nodes to apprehend the semantic associations of their names and comments.
 * Use the **Maximum Weight Spanning Tree** algorithm to generate a semantic network.&#x20;

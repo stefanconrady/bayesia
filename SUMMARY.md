@@ -128,7 +128,7 @@
       * [Charles Dickens: A Tale of Two Cities (1859)](bayesialab/hellixia-user-guide/examples/literature/charles-dickens-a-tale-of-two-cities-1859.md)
       * [George Eliot: Middlemarch (1871)](bayesialab/hellixia-user-guide/examples/literature/george-eliot-middlemarch-1871.md)
       * [Guy de Maupassant: The Horla (1887)](bayesialab/hellixia-user-guide/examples/literature/guy-de-maupassant-the-horla-1887.md)
-      * [James Joyce: Ulysse (1929)](bayesialab/hellixia-user-guide/examples/literature/james-joyce-ulysse-1929.md)
+      * [James Joyce: Ulysses (1922)](bayesialab/hellixia-user-guide/examples/literature/james-joyce-ulysses-1922.md)
       * [Hubert Selby: The Demon (1976)](bayesialab/hellixia-user-guide/examples/literature/hubert-selby-the-demon-1976.md)
       * [Salman Rushdie: Midnight's Children (1981)](bayesialab/hellixia-user-guide/examples/literature/salman-rushdie-midnights-children-1981.md)
     * [Cinema](bayesialab/hellixia-user-guide/examples/cinema/README.md)
