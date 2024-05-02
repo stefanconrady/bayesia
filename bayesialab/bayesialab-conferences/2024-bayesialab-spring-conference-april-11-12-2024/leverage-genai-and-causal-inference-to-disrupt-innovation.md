@@ -14,6 +14,10 @@ We have been exploring different ways to leverage GenAI and causal inference to 
 
 {% embed url="https://res.cloudinary.com/dvr3obmlj/video/upload/v1714516740/2024-04-12-BayesiaLab-Conference-Yong-Zhang_3_amjtph.mp4" %}
 
+### Presentation Slides
+
+{% embed url="https://res.cloudinary.com/dvr3obmlj/image/upload/v1714692895/Zhang-etal_GenAI_CausalInferences_April2024_aseeny.pdf" %}
+
 ### About the Presenter&#x20;
 
 Dr. Yong Zhang leverages Bayesian data and modeling science to develop a strategy for product design, manufacturing, storage, and transportation across P\&G to improve consumers’ quality of life and drive positive influence on the environment and society under different climate change scenarios. He develops modeling and simulation methods and tools through Front End Innovation projects to enable and promote the capability across P\&G for breakthrough consumer understanding and product innovation. The methods and tools can be used to extract and integrate information from a variety of data sources to find a “Body of Evidence” for consumer and product research based on Nonparametric Bayesian statistics and deep learning algorithms.
