@@ -98,8 +98,8 @@ Here, we provide a set of causes and consequences and let Hellixia determine how
 [2024-bayesialab-spring-conference-april-11-12-2024](../bayesialab-conferences/2024-bayesialab-spring-conference-april-11-12-2024/)
 {% endcontent-ref %}
 
-{% content-ref url="../academy-courses-events-seminars-and-webinars/introductory-bayesialab-course.md" %}
-[introductory-bayesialab-course.md](../academy-courses-events-seminars-and-webinars/introductory-bayesialab-course.md)
+{% content-ref url="../academy-courses-events-seminars-and-webinars/introductory-bayesialab-course-april-8-10-2024.md" %}
+[introductory-bayesialab-course-april-8-10-2024.md](../academy-courses-events-seminars-and-webinars/introductory-bayesialab-course-april-8-10-2024.md)
 {% endcontent-ref %}
 
 {% content-ref url="../academy-courses-events-seminars-and-webinars/advanced-bayesialab-course-april-15-17-2024.md" %}

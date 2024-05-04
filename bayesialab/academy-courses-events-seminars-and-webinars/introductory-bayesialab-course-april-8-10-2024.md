@@ -20,7 +20,7 @@ We have a fantastic venue for our course. The classroom is in the heart of Miami
 
 The Introductory BayesiaLab Course is more than just a beginner's guide. It's a deep dive into applying Bayesian networks across diverse fields, from marketing science and econometrics to ecology and sociology. And we don't just stick to theory. Every conceptual lesson transitions seamlessly into hands-on practice with BayesiaLab, allowing you to apply what you've learned directly, whether in knowledge modeling, causal inference, machine learning, or more.
 
-Over 2,000 researchers worldwide can vouch for its impact, many of whom have made Bayesian networks and BayesiaLab integral to their research. Don't just take our word for it - check out the [testimonials](introductory-bayesialab-course.md#course-testimonials-2009-2023)!&#x20;
+Over 2,000 researchers worldwide can vouch for its impact, many of whom have made Bayesian networks and BayesiaLab integral to their research. Don't just take our word for it - check out the [testimonials](introductory-bayesialab-course-april-8-10-2024.md#course-testimonials-2009-2023)!&#x20;
 
 ### Course Registration on Eventbrite
 
@@ -240,7 +240,7 @@ Over 2,000 researchers worldwide can vouch for its impact, many of whom have mad
 
 ### About the Instructor
 
-* . Since then, BayesiaLab has emerged as the leading software package for knowledge discovery, data mining, and knowledge modeling using Bayesian networks. ItDr. Lionel Jouffe is co-founder and CEO of France-based Bayesia S.A.S. Lionel holds a Ph.D. in Computer Science from the University of Rennes and has worked in Artificial Intelligence since the early 1990s. While working as a Professor/Researcher at ESIEA, Lionel started exploring the potential of Bayesian networks.
+* Since then, BayesiaLab has emerged as the leading software package for knowledge discovery, data mining, and knowledge modeling using Bayesian networks. Dr. Lionel Jouffe is co-founder and CEO of France-based Bayesia S.A.S. Lionel holds a Ph.D. in Computer Science from the University of Rennes and has worked in Artificial Intelligence since the early 1990s. While working as a Professor/Researcher at ESIEA, Lionel started exploring the potential of Bayesian networks.
 * After co-founding Bayesia in 2001, he and his team have been working full-time on the development of BayesiaLab. Since then, BayesiaLab has emerged as the leading software package for knowledge discovery, data mining, and knowledge modeling using Bayesian networks. It enjoys broad acceptance in academic communities, business, and industry.
 
 ### FAQ
@@ -286,11 +286,11 @@ No, this is an in-person course, and you will need to be present in the classroo
 
 You must bring your own notebook or laptop computer running a **64-bit version of Windows or macOS**. For macOS computers, BayesiaLab is compatible with both Intel and Apple silicon.
 
-Before the course, you will receive download and activation instructions for BayesiaLab so that your setup is ready to go when the course starts.&#x20;
+**A tablet-type iOS or Android computer cannot run BayesiaLab and will not work for this course.**
+
+Before the course, you will receive download and activation instructions for BayesiaLab so that your setup is ready to go when the course starts.
 
 A mouse as a pointing device is strongly recommended.
-
-**A tablet-type iOS or Android computer cannot run BayesiaLab and will not work for this course.**
 
 </details>
 
@@ -309,4 +309,3 @@ You may cancel your registration for a full refund of the course fees up to 30 d
 Yes, the 1111 Lincoln Road Building features a large parking garage. Please see the garage website for details: [https://www.legacyparking.com/facilities/1111-lincoln-road-parking](https://www.legacyparking.com/facilities/1111-lincoln-road-parking). Note that you can book your parking ahead of time and secure a discount.
 
 </details>
-
