@@ -10,6 +10,10 @@ In [Noise, Daniel Kahneman, Olivier Sibony, and Cass R. Sunstein](https://www.am
 
 Packed with original ideas, and offering the same kinds of research-based insights that made [Thinking, Fast and Slow](https://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman/dp/0374533555) and [Nudge](https://www.amazon.com/Nudge-Final-Richard-H-Thaler/dp/014313700X) groundbreaking New York Times bestsellers, Noise explains how and why humans are so susceptible to noise in judgment—and what we can do about it.
 
+### Presentation Video
+
+{% embed url="https://res.cloudinary.com/dvr3obmlj/video/upload/v1714865232/2021-Conference-Olivier-Sibony_mqfmpw.mp4" %}
+
 ### About the Keynote Speaker&#x20;
 
 Olivier Sibony is a professor, writer, and advisor specializing in the quality of strategic thinking and the design of decision processes. Olivier teaches Strategy, Decision Making, and Problem Solving at HEC Paris. He is also an Associate Fellow of Saïd Business School at Oxford University.
