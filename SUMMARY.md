@@ -400,6 +400,7 @@
     * [🇫🇷 Noise — A Flaw in Human Judgment](bayesialab/bayesialab-conferences/2021-bayesialab-conference-a-zoom-virtual-event/noise-a-flaw-in-human-judgment.md)
     * [🇫🇷 BayesiaLab Independence of Causal Influence Models](bayesialab/bayesialab-conferences/2021-bayesialab-conference-a-zoom-virtual-event/bayesialab-independence-of-causal-influence-models.md)
     * [🇫🇷 Supervised Elicitation Model for Causal Analysis of Companies' Performance](bayesialab/bayesialab-conferences/2021-bayesialab-conference-a-zoom-virtual-event/supervised-elicitation-model-for-causal-analysis-of-companies-performance.md)
+    * [Automatic Generation of Bayesian Network Simulators from Financial Texts](bayesialab/bayesialab-conferences/2021-bayesialab-conference-a-zoom-virtual-event/automatic-generation-of-bayesian-network-simulators-from-financial-texts.md)
   * [🖥️ 2020 BayesiaLab Conference at the Laval Virtual World](bayesialab/bayesialab-conferences/2020-bayesialab-conference-at-the-laval-virtual-world/README.md)
     * [🇫🇷 Introducing BayesiaLab 10](bayesialab/bayesialab-conferences/2020-bayesialab-conference-at-the-laval-virtual-world/introducing-bayesialab-10.md)
     * [🇨🇦 Lessons from Causal Analysis: Policy Implications for Woodland Caribou Recovery in Canada](bayesialab/bayesialab-conferences/2020-bayesialab-conference-at-the-laval-virtual-world/lessons-from-causal-analysis-policy-implications-for-woodland-caribou-recovery-in-canada.md)
