@@ -1,29 +1,30 @@
 ---
+description: Three-Day Introductory BayesiaLab Course in Miami Beach, Florida
 cover: >-
   https://res.cloudinary.com/dvr3obmlj/image/upload/v1693869952/McKinsey_NJ_cc9kwd.jpg
 coverY: -158
 ---
 
-# 🎓 Introductory BayesiaLab Course — April 8–10, 2024
+# 🎓 Introductory BayesiaLab Course
 
-### Three-Day Introductory BayesiaLab Course&#x20;
+<figure><img src="https://res.cloudinary.com/dvr3obmlj/image/upload/v1714845453/2024-10-07_BayesiaLab_Introductory_Course_dxh8um.png" alt=""><figcaption></figcaption></figure>
 
-The Graduate Cincinnati, 151 Goodman Drive,  Cincinnati, Ohio 45219\
-April 8–10, 2024
+Spaces — 1111 Lincoln Road, Miami Beach, FL 33139\
+October 7–9, 2024
 
 Since 2009, our BayesiaLab courses and events have spanned the globe. From New York to Sydney, Paris to Singapore, we've touched down in cities worldwide (take a peek at our [photo gallery](https://lightroom.adobe.com/shares/3034ac3a449c4b0d95f4e154d81a6c08)!).&#x20;
 
 <figure><img src="https://res.cloudinary.com/dvr3obmlj/image/upload/v1710345726/2024_Course_Collage_ingdbu.webp" alt=""><figcaption><p>BayesiaLab Courses Around the World</p></figcaption></figure>
 
-We're excited to launch our 2024 course program at The Graduate Cincinnati. Located at the heart of the vibrant University of Cincinnati campus, this former Marriott Kingsgate Conference Center has been transformed with an 'upscale funky' vibe.&#x20;
+We have a fantastic venue for our course. The classroom is in the heart of Miami Beach, just a few blocks from the glamorous South Beach.
 
 The Introductory BayesiaLab Course is more than just a beginner's guide. It's a deep dive into applying Bayesian networks across diverse fields, from marketing science and econometrics to ecology and sociology. And we don't just stick to theory. Every conceptual lesson transitions seamlessly into hands-on practice with BayesiaLab, allowing you to apply what you've learned directly, whether in knowledge modeling, causal inference, machine learning, or more.
 
-Over 1,500 researchers worldwide can vouch for its impact, many of whom have made Bayesian networks and BayesiaLab integral to their research. Don't just take our word for it - check out the [testimonials](introductory-bayesialab-course-april-8-10-2024.md#course-testimonials-2009-2023)!&#x20;
+Over 2,000 researchers worldwide can vouch for its impact, many of whom have made Bayesian networks and BayesiaLab integral to their research. Don't just take our word for it - check out the [testimonials](introductory-bayesialab-course.md#course-testimonials-2009-2023)!&#x20;
 
 ### Course Registration on Eventbrite
 
-{% embed url="https://www.eventbrite.com/e/738322792347?aff=oddtdtcreator" %}
+{% embed url="https://www.eventbrite.com/e/introductory-bayesialab-course-in-person-classroom-session-tickets-898022057147" %}
 
 ### Course Program
 
@@ -239,8 +240,8 @@ Over 1,500 researchers worldwide can vouch for its impact, many of whom have mad
 
 ### About the Instructor
 
-* Dr. Lionel Jouffe is co-founder and CEO of France-based Bayesia S.A.S. Lionel holds a Ph.D. in Computer Science from the University of Rennes and has worked in Artificial Intelligence since the early 1990s. While working as a Professor/Researcher at ESIEA, Lionel started exploring the potential of Bayesian networks.
-* After co-founding Bayesia in 2001, he and his team have been working full-time on the development of BayesiaLab, which has since emerged as the leading software package for knowledge discovery, data mining, and knowledge modeling using Bayesian networks. BayesiaLab enjoys broad acceptance in academic communities, business, and industry.
+* . Since then, BayesiaLab has emerged as the leading software package for knowledge discovery, data mining, and knowledge modeling using Bayesian networks. ItDr. Lionel Jouffe is co-founder and CEO of France-based Bayesia S.A.S. Lionel holds a Ph.D. in Computer Science from the University of Rennes and has worked in Artificial Intelligence since the early 1990s. While working as a Professor/Researcher at ESIEA, Lionel started exploring the potential of Bayesian networks.
+* After co-founding Bayesia in 2001, he and his team have been working full-time on the development of BayesiaLab. Since then, BayesiaLab has emerged as the leading software package for knowledge discovery, data mining, and knowledge modeling using Bayesian networks. It enjoys broad acceptance in academic communities, business, and industry.
 
 ### FAQ
 
@@ -283,7 +284,13 @@ No, this is an in-person course, and you will need to be present in the classroo
 
 <summary>What do I need to bring?</summary>
 
-You must bring your own notebook or laptop computer running a 64-bit version of Windows or macOS. Before the course, you will receive download and activation instructions for BayesiaLab, so that your setup is ready to go when the course starts. A mouse as a pointing device is highly recommended.
+You must bring your own notebook or laptop computer running a **64-bit version of Windows or macOS**. For macOS computers, BayesiaLab is compatible with both Intel and Apple silicon.
+
+Before the course, you will receive download and activation instructions for BayesiaLab so that your setup is ready to go when the course starts.&#x20;
+
+A mouse as a pointing device is strongly recommended.
+
+**A tablet-type iOS or Android computer cannot run BayesiaLab and will not work for this course.**
 
 </details>
 
@@ -295,8 +302,11 @@ You may cancel your registration for a full refund of the course fees up to 30 d
 
 </details>
 
-### Hotel Reservations
+<details>
 
-We have secured a block of guest rooms at The Graduate Hotel for the duration of the [Introductory Course.](introductory-bayesialab-course-april-8-10-2024.md) You can take advantage of a special BayesiaLab rate of $159/night, plus taxes and fees. Click the following link to access The Graduate Hotel's reservation site and secure the special rate for your stay.
+<summary>Can I park at the course venue in Miami Beach?</summary>
 
-{% embed url="https://graduatehotels.com/cincinnati/#/booking/step-2?data=('hDhd!'cincinnati'~aeA076dtA196fs-~rDat!2~cn!0~cg-~alBpo.gp!'9254531'~rn-)Cry.rk.re-~rr*)Cax!0~cy.ds!('pe.ls.as.st*)~myBse.ce.ne*)*!null-8%5D.*~6%2F2024'~8!%5BA!'04%2FB!false~C%5D~Ds8('%01DCBA86.-*_" %}
+Yes, the 1111 Lincoln Road Building features a large parking garage. Please see the garage website for details: [https://www.legacyparking.com/facilities/1111-lincoln-road-parking](https://www.legacyparking.com/facilities/1111-lincoln-road-parking). Note that you can book your parking ahead of time and secure a discount.
+
+</details>
+
