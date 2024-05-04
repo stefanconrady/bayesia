@@ -4,20 +4,15 @@ cover: >-
 coverY: 17
 ---
 
-# 🎓 Advanced BayesiaLab Course — April 15–17, 2024
+# 🎓 Advanced BayesiaLab Course
 
 ### Three-Day Advanced BayesiaLab Course&#x20;
 
-The Graduate Cincinnati, 151 Goodman Drive,  Cincinnati, Ohio 45219\
-April 15–17, 2024
+New course dates to be announced.
 
 Building on the foundation laid in the Introductory BayesiaLab Course, we introduce the Advanced BayesiaLab Course for those ready to delve even deeper.&#x20;
 
 With this immersive experience, you can take your BayesiaLab certification to the next level. While the introductory course provided a comprehensive overview of Bayesian network applications, our advanced curriculum dives into the nuances.&#x20;
-
-### Course Registration on Eventbrite
-
-{% embed url="https://www.eventbrite.com/e/738320886647?aff=oddtdtcreator" %}
 
 ### Course Program&#x20;
 
@@ -228,12 +223,6 @@ With this immersive experience, you can take your BayesiaLab certification to th
 * After co-founding Bayesia in 2001, he and his team have been working full-time on the development of BayesiaLab. Since then, BayesiaLab has emerged as the leading software package for knowledge discovery, data mining, and knowledge modeling using Bayesian networks. It enjoys broad acceptance in academic communities, business, and industry.
 
 <figure><img src="https://res.cloudinary.com/dvr3obmlj/image/upload/v1710353058/PhotoLionel_bnmsdw.webp" alt="" width="188"><figcaption><p>Dr. Lionel Jouffe</p></figcaption></figure>
-
-### Hotel Reservations
-
-We have secured a block of guest rooms at The Graduate Hotel for the duration of the Advanced BayesiaLab Course. You can take advantage of a special BayesiaLab rate of $159/night, plus taxes and fees. Click the following link to access The Graduate Hotel's reservation site and secure the special rate for your stay.
-
-{% embed url="https://graduatehotels.com/cincinnati/#/booking/step-2?data=('hDhd!'cincinnati'~aeA076dtA196fs-~rDat!2~cn!0~cg-~alBpo.gp!'9254531'~rn-)Cry.rk.re-~rr*)Cax!0~cy.ds!('pe.ls.as.st*)~myBse.ce.ne*)*!null-8%5D.*~6%2F2024'~8!%5BA!'04%2FB!false~C%5D~Ds8('%01DCBA86.-*_" %}
 
 ### Course Testimonials (2009-2023)
 
