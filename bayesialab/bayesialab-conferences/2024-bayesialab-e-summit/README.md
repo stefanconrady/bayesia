@@ -12,7 +12,7 @@ What started in 2013 in Orlando, Florida, as a modest gathering has now blossome
 
 ### Free E-Summit Registration
 
-{% embed url="https://us02web.zoom.us/webinar/register/WN_U8NmDjNoQompxmuYXCE3og" %}
+{% embed url="https://streamyard.com/watch/WNWDmWiShPBA" %}
 
 ### Program
 
