@@ -26,12 +26,6 @@ Steve Wilson has 30 years of experience working at technical and professional le
 
 <figure><img src="https://bayesia.clickhelp.co/resources/Storage/bayesialab-knowledge-hub/2020_Conference/Conference-Presentations/Steve-Wilson/Steve-Wilson.jpg" alt="" width="188"><figcaption><p>Steven Wilson, Ph.D.</p></figcaption></figure>
 
-{% hint style="info" %}
-Register here for the 2024 BayesiaLab Spring Conference, April 11-12, 2024:
-
-{% embed url="https://www.eventbrite.com/e/2024-bayesialab-spring-conference-tickets-738314688107?aff=oddtdtcreator" %}
-{% endhint %}
-
 ### Previous Conference Presentations&#x20;
 
 {% content-ref url="../2022-bayesialab-conference-10th-anniversary/a-causal-framework-for-analyzing-cumulative-environmental-impacts.md" %}
