@@ -20,7 +20,7 @@ We have a fantastic venue for our course. The classroom is in the heart of Miami
 
 The Introductory BayesiaLab Course is more than just a beginner's guide. It's a deep dive into applying Bayesian networks across diverse fields, from marketing science and econometrics to ecology and sociology. And we don't just stick to theory. Every conceptual lesson transitions seamlessly into hands-on practice with BayesiaLab, allowing you to apply what you've learned directly, whether in knowledge modeling, causal inference, machine learning, or more.
 
-Over 2,000 researchers worldwide can vouch for its impact, many of whom have made Bayesian networks and BayesiaLab integral to their research. Don't just take our word for it - check out the [testimonials](introductory-bayesialab-course-april-8-10-2024.md#course-testimonials-2009-2023)!&#x20;
+Over 2,000 researchers worldwide can vouch for its impact, many of whom have made Bayesian networks and BayesiaLab integral to their research. Don't just take our word for it - check out the [testimonials](course-testimonials.md)!&#x20;
 
 ### Course Registration on Eventbrite
 
