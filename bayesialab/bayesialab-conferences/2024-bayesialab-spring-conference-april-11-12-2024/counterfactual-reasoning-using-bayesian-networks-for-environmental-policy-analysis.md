@@ -4,11 +4,19 @@ description: Steven F. Wilson, Ph.D., EcoLogic Research
 
 # 🇨🇦 Counterfactual Reasoning Using Bayesian Networks for Environmental Policy Analysis
 
-To be presented at the [2024 BayesiaLab Spring Conference](./) in Cincinnati on April 12, 2024.
+Presented at the [2024 BayesiaLab Spring Conference](./) in Cincinnati on April 12, 2024.
 
 ### Abstract
 
 Environmental policymaking is challenging because systems are complex, and rarely can we conduct experiments to test the relative costs and benefits of different policy options. Causal analysis methods allow us to estimate causal effects from observational data, and such methods are being applied increasingly often to predict the relative benefits of alternative policies. However, predictions based on only average causal effects provide an incomplete assessment of the value of potential interventions. Decision-makers also need to know how likely an outcome is to occur without the intervention (i.e., an assessment of causal attribution) or what outcomes could be expected if the intervention was only selectively applied (i.e., estimating context-specific causal effects). Answering these questions requires applying the counterfactual reasoning of “rung 3” of Pearl’s causal hierarchy. In fact, Pearl argued explicitly in his book _Causality_ that “policy analysis is an exercise in counterfactual reasoning.” I used Bayesian Networks to model counterfactual outcomes on caribou populations of different land use policy interventions. While there are theoretical limitations to using Bayesian Networks for this purpose, the resulting counterfactual insights still provide additional value to decision-makers compared to observational or interventional analyses.
+
+### Presentation Video
+
+{% embed url="https://res.cloudinary.com/dvr3obmlj/video/upload/v1715197114/2024-04-12-Conference-Steven-Wilson_t2epu3.mp4" %}
+
+### Presentation Slides
+
+{% embed url="https://res.cloudinary.com/dvr3obmlj/image/upload/v1715197328/Wilson_-_2024_conference_presentation_c_qdwgib.pdf" %}
 
 ### About the Presenter
 
