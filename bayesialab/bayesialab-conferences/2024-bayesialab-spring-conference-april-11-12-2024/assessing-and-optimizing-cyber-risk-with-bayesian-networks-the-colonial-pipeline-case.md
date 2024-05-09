@@ -4,23 +4,21 @@ description: Kurt S. Schulzke, JD, CPA, CFE, University of North Georgia
 
 # 🇺🇸 Assessing & Optimizing Cyber Risk with Bayesian Networks: The Colonial Pipeline Case
 
-To be presented at the [2024 BayesiaLab Spring Conference](./) in Cincinnati on April 12, 2024.
+Presented at the [2024 BayesiaLab Spring Conference](./) in Cincinnati on April 12, 2024.
 
 ### Abstract
 
 On May 7, 2021, Darkside hackers exploited a leaked Colonial Pipeline Corporation (CPC) password, breaching a dormant VPN to infiltrate CPC’s IT system. Lacking a contingency plan, CPC entirely shuttered its pipelines, which at the time carried 45 percent of all jet fuel and gasoline consumed on the East Coast of the United States. This ransomware hack showcased stereotypical weaknesses in cybersecurity modeling, controls, and compliance monitoring and revealed the company's failure to create a response playbook or contingency plan, as required by U.S. Department of Transportation regulations. This presentation illustrates the use of Bayesian networks and influence diagrams for cybersecurity risk modeling, assessment, ranking, and management and suggests how their use might have prevented the Colonial Pipeline hack and/or mitigated its consequences to the company and other stakeholders.
+
+### Presentation Video
+
+{% embed url="https://res.cloudinary.com/dvr3obmlj/video/upload/v1715262904/2024-04-11-Conference-Kurt-Schulzke_jdkjfv.mp4" %}
 
 ### About the Presenter
 
 Kurt Schulzke, JD, CPA, CFE, is a Professor of Accounting & Law at the University of North Georgia. His teaching, research, and consulting thrive at the intersection of data science, accounting, law, and risk management. He has published in the Columbia Journal of Transnational Law, Vanderbilt Journal of Transnational Law, Tennessee Journal of Business Law, Journal of Forensic Accounting Research, and The Value Examiner. MAcc (Brigham Young University), J.D. (Georgia State University), M.S. Applied Statistics (Kennesaw State University).
 
 <figure><img src="https://res.cloudinary.com/dvr3obmlj/image/upload/v1705694569/Kurt_Schulzke_grw9mf.jpg" alt="" width="188"><figcaption><p>Kurt Schulzke, JD, CPA, CFE</p></figcaption></figure>
-
-{% hint style="info" %}
-Register here for the 2024 BayesiaLab Spring Conference, April 11-12, 2024:
-
-{% embed url="https://www.eventbrite.com/e/2024-bayesialab-spring-conference-tickets-738314688107?aff=oddtdtcreator" %}
-{% endhint %}
 
 ### Previous Conference Presentations
 
