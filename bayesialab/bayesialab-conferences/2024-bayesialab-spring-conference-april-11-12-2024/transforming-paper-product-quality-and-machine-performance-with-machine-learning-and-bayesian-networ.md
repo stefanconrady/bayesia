@@ -4,7 +4,7 @@ description: Steven Frazier, Georgia Pacific
 
 # 🇺🇸 Transforming Paper Product Quality and Machine Performance with Machine Learning & Bayesian Networks
 
-To be presented at the [2024 BayesiaLab Spring Conference](./) in Cincinnati on April 12, 2024.
+Presented at the [2024 BayesiaLab Spring Conference](./) in Cincinnati on April 12, 2024.
 
 ### Abstract
 
@@ -18,6 +18,14 @@ Operational insights form the core of the latter part, where data analysis revea
 
 Concluding, the presentation reflects on the project's broader impacts, emphasizing continuous improvement, user readiness, and aligning project goals with customer expectations. This summary encapsulates the journey and lessons learned in applying advanced analytics to improve tissue softness, underscoring the potential of machine learning in industrial applications.
 
+### Presentation Video
+
+{% embed url="https://res.cloudinary.com/dvr3obmlj/video/upload/v1715302449/2024-04-11-Steven-Frazier_vociew.mp4" %}
+
+### Presentation Slides
+
+{% embed url="https://res.cloudinary.com/dvr3obmlj/image/upload/v1715303750/Conference_Presentation_rev2_n8ydbk.pdf" %}
+
 ### About the Presenter
 
 With over 30 years of operations experience and 3 U.S. patents, Steven Frazier is an expert in creating high-performance solutions for complex business challenges. His multi-disciplinary approach has been pivotal in enhancing processes for leading Fortune 500 companies, including Coca-Cola, Procter & Gamble, and Georgia Pacific.
@@ -29,9 +37,3 @@ During his recent role at OnPoint (Koch Industries), Steven's models for tissue 
 As he prepares to share his expertise at the Bayesialab conference on April 11, 2024, Steven's pragmatic and transformative approach is expected to resonate with a wide audience. With a solid educational foundation in Mechanical Engineering from Washington University and advanced certification in Lean Six Sigma from Villanova University, he's geared to propel organizations towards operational excellence and analytical innovation.  A presentation you don’t want to miss.
 
 <figure><img src="https://res.cloudinary.com/dvr3obmlj/image/upload/c_scale,w_480/f_webp/Steven-Frazier-Headshot_irawgr.jpg" alt="" width="188"><figcaption><p>Steven Frazier</p></figcaption></figure>
-
-{% hint style="info" %}
-Register here for the 2024 BayesiaLab Spring Conference, April 11-12, 2024:
-
-{% embed url="https://www.eventbrite.com/e/2024-bayesialab-spring-conference-tickets-738314688107?aff=oddtdtcreator" %}
-{% endhint %}
