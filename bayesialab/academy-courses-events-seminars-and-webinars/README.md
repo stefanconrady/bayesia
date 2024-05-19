@@ -14,12 +14,12 @@ Since 2009, we have been hosting BayesiaLab courses and events worldwide. New Yo
 
 After a long break in the in-person training program due to COVID-19, we are returning with classroom-based training in 2024. Registration for the Introductory and Advanced BayesiaLab Courses in Cincinnati is now open.&#x20;
 
-{% content-ref url="introductory-bayesialab-course-april-8-10-2024.md" %}
-[introductory-bayesialab-course-april-8-10-2024.md](introductory-bayesialab-course-april-8-10-2024.md)
+{% content-ref url="introductory-bayesialab-course.md" %}
+[introductory-bayesialab-course.md](introductory-bayesialab-course.md)
 {% endcontent-ref %}
 
-{% content-ref url="advanced-bayesialab-course-april-15-17-2024.md" %}
-[advanced-bayesialab-course-april-15-17-2024.md](advanced-bayesialab-course-april-15-17-2024.md)
+{% content-ref url="advanced-bayesialab-course.md" %}
+[advanced-bayesialab-course.md](advanced-bayesialab-course.md)
 {% endcontent-ref %}
 
 ### Semiannual BayesiaLab Conferences

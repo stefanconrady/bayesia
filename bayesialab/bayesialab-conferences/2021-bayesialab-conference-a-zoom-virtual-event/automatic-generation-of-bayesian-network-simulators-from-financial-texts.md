@@ -1,4 +1,4 @@
-# Automatic Generation of Bayesian Network Simulators from Financial Texts
+# 🇫🇷 Automatic Generation of Bayesian Network Simulators from Financial Texts
 
 Presented at the [9th Annual BayesiaLab Conference](./) on October 15, 2021. \
 
