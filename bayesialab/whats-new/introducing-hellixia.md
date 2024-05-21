@@ -10,11 +10,11 @@ As a result, acquiring additional external information, such as human expert kno
 
 Given the importance of domain knowledge, the BayesiaLab team has developed new tools for expert knowledge elicitation for many years, such as the [Bayesia Expert Knowledge Elicitation Environment (BEKEE)](../../bekee/bayesia-expert-knowledge-elicitation-environment-bekee.md).&#x20;
 
-Thus, the arrival of ChatGPT last year has prompted the Bayesia team to immediately leverage the potential of this new type of AI with BayesiaLab.
+Thus, the arrival of ChatGPT in 2022 has prompted the Bayesia team to immediately leverage the potential of Generative AI with BayesiaLab.
 
 ### Hellixia, BayesiaLab's New Subject Matter Assistant
 
-Hellixia is the name of BayesiaLab's subject matter assistant powered by ChatGPT. Hellixia offers a wide range of functions to help you characterize a given problem domain:
+Hellixia is the name of BayesiaLab's subject matter assistant powered by Generative AI. Hellixia offers a wide range of functions to help you characterize a given problem domain:
 
 * Identify relevant dimensions of a problem domain
 * Extract dimensions from a text
@@ -44,13 +44,13 @@ A typical research workflow with Hellixia consists of the following steps:
 
 * BayesiaLab utilizes its structural learning algorithms to find associations between variables.&#x20;
 * Then, Hellixia obtains the causal directions for the learned associations and applies them as structural priors to the network.
-* Finally, with these newly defined structural priors, BayesiaLab relearns the network. The final network now represents statistical knowledge from data plus the causal knowledge obtained from ChatGPT.
+* Finally, with these newly defined structural priors, BayesiaLab relearns the network. The final network now represents statistical knowledge from data plus the causal knowledge obtained from Large Language Models.
 
 ### Hellixia Performance
 
 The [Tübingen Cause-Effect Pairs](https://webdav.tuebingen.mpg.de/cause-effect/) is a well-known dataset for assessing the performance of causal discovery methods. When tested against this dataset, Hellixia achieves 98% accuracy. The only errors are related to financial relationships for which Hellixia could not retrieve any causal relationships from ChatGPT.
 
-The feature highlight of the BayesiaLab 11 is the integration of Hellixia, a subject matter assistant that leverages ChatGPT for structural knowledge elicitation.
+The feature highlight of the BayesiaLab 11 is the integration of Hellixia, a subject matter assistant that leverages Generative AI for structural knowledge elicitation.
 
 ### Hellixia Preview at the 2023 BayesiaLab Spring Conference
 
