@@ -4,7 +4,7 @@
 
 ### Context
 
-Hellixia is the name of BayesiaLab's subject matter assistant powered by ChatGPT. Hellixia offers a wide range of functions to help you characterize a given problem domain:
+Hellixia is the name of BayesiaLab's subject matter assistant powered by Generative AI. Hellixia offers a wide range of functions to help you characterize a given problem domain:
 
 * Identify relevant dimensions of a problem domain
 * Extract dimensions from a text
