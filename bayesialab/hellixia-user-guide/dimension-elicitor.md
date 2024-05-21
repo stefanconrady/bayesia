@@ -3,7 +3,7 @@
 ### Context
 
 * The first step in formulating a new Bayesian network about a problem domain is typically defining the dimensions of that domain. This would also be the first step in the BEKEE workflow (see[bayesia-expert-knowledge-elicitation-environment-bekee.md](../../bekee/bayesia-expert-knowledge-elicitation-environment-bekee.md "mention"))
-* Depending on the familiarity with the field of study, exploring a subject's facets and aspects may require a significant brainstorming effort. The Hellixia Dimension Elicitor assists by querying ChatGPT and proposing a list of dimensions.
+* Depending on the familiarity with the field of study, exploring a subject's facets and aspects may require a significant brainstorming effort. The Hellixia Dimension Elicitor assists by querying Large Language Models and proposing a list of dimensions.
 
 ### Usage & Example
 
