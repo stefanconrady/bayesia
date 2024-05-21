@@ -18,12 +18,14 @@ Here is a selection of the most important new features:
 
 <figure><img src="https://res.cloudinary.com/dvr3obmlj/image/upload/v1697643001/Hellixia_odt5w9.png" alt="" width="375"><figcaption></figcaption></figure>
 
-**Hellixia** is the name of BayesiaLab's subject matter assistant based on Large Language Models. Hellixia offers a wide range of functions to help you characterize a given problem domain:
+**Hellixia** is the name of BayesiaLab's subject matter assistant based on Generative AI. Hellixia offers a wide range of functions to help you characterize a given problem domain:
 
+* **Automatic Causal Network Generator:** This tool automatically creates a Causal Bayesian Network based on the user's input question. It generates nodes, adds detailed comments for each causal link explaining the mechanism, determines causal effects (with values ranging from -100 to 100), and constructs the conditional probability tables. The network is then automatically formatted.
+* **Automatic Semantic Network Generator**: This tool automatically creates a Semantic Network to capture the main dimensions related to the user's input question.
 * **Dimension Elicitor**: Identify relevant dimensions of a problem domain by using a large set of keywords and create the corresponding nodes.
 * **Comment Generator**: Utilize a comprehensive set of keywords to pinpoint relevant dimensions within a problem domain and add them as comments to the nodes.
-* **Embedding Generator**: This tool creates embeddings encapsulating node semantics, featuring vectors of 1,536 dimensions, enabling the learning of semantic networks.
-* **Class Description Generator**: Generate descriptive summaries for set of nodes to use as names for latent variables, for instance.
+* **Embedding Generator**: This tool generates embeddings that capture the semantics of nodes using high-dimensional vectors, facilitating the learning of semantic networks.
+* **Class Description Generator**: Generate descriptive summaries for a set of nodes. This tool is also integrated with the Multiple Clustering tool, enabling the automatic association of meaningful names with all latent variables.
 * **Semantic Variable Clustering**: Create clusters of nodes based on their semantic.
 * **Pairwise Causal Link**: This function evaluates the causal relationship between two nodes, adding an arc if a link exists. It also quantifies the causal effect (ranging from -100 to 100) and creates or updates the conditional probability table accordingly.
 * **Causal Structural Priors**: This tool assesses the causal relationship between two nodes and creates a Structural Prior if a relationship exists. The value of the prior reflects the confidence level in the relationship's existence.
@@ -148,7 +150,7 @@ The redesigned **Target Evaluation** function now features dedicated tabs for:
 <figure><img src="https://res.cloudinary.com/dvr3obmlj/image/upload/v1706354476/NoteClass_vvdh6f.svg" alt="" width="375"><figcaption></figcaption></figure>
 
 * **Arc Editor**: Accessible by double-clicking an arc, this feature enables you to edit the text associated with the arc as well as its rendering properties.
-* **Moving Arc Comments**: You can now reposition comments along their corresponding arcs.
+* **Arc Comments**: The width, layer, and position of comments can now be modified. Additionally, an automatic layout algorithm is now available for positioning comments.
 
 <figure><img src="https://res.cloudinary.com/dvr3obmlj/image/upload/v1706354749/ArcComments_neop4p.svg" alt="" width="375"><figcaption></figcaption></figure>
 
