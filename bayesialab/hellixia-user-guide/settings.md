@@ -2,11 +2,11 @@
 
 ### Context
 
-* To utilize the Hellixia functions, BayesiaLab must connect to the OpenAI API using a personal API Key.
+* To utilize the Hellixia functions, BayesiaLab must connect to the OpenAI or Mistral APIs using a personal API Key.
 
 {% hint style="warning" %}
-* OpenAI is a third-party service that can be accessed through BayesiaLab; however, it is not part of the BayesiaLab software. As a result, Bayesia makes no representations.&#x20;
-* A subscription fee payable to OpenAI may be required to obtain your personal API Key.
+* OpenAI and Mistral are third-party services that can be accessed through BayesiaLab; however, it is not part of the BayesiaLab software. As a result, Bayesia makes no representations.&#x20;
+* A subscription fee payable to OpenAI or Mistral may be required to obtain your personal API Key.
 {% endhint %}
 
 ### OpenAI
@@ -15,13 +15,13 @@
 
 <table data-card-size="large" data-view="cards" data-full-width="false"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td><strong>OpenAI</strong></td><td></td><td></td><td><a href="https://openai.com/">https://openai.com/</a></td><td><a href="../../.gitbook/assets/OpenAI-API-Keys.png">OpenAI-API-Keys.png</a></td></tr></tbody></table>
 
-* Once you have obtained your API Key, enter it into your locally-installed BayesiaLab software under `Main Menu > Windows > Preferences > Tools > OpenAI`
+* Once you have obtained your API Key, enter it into your locally-installed BayesiaLab software under `Main Menu > Windows > Preferences > Tools > Hellixia`
 
 <figure><img src="https://res.cloudinary.com/dvr3obmlj/image/upload/v1690041192/OpenAISettings_bsghbz.png" alt=""><figcaption></figcaption></figure>
 
-### Microsoft Azure
+### Endpoints
 
-If you want to utilize an alternative to OpenAI, you can deploy models in your own Microsoft Azure account. The process involves creating endpoints.
+If you want to utilize an alternative to OpenAI and Mistral, you can deploy models in your own Microsoft Azure account for example. The process involves creating endpoints.
 
 <figure><img src="https://res.cloudinary.com/dvr3obmlj/image/upload/v1690041057/EndPoints_hdhruv.png" alt=""><figcaption></figcaption></figure>
 
