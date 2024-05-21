@@ -21,7 +21,13 @@ Here is a selection of the most important new features:
 **Hellixia** is the name of BayesiaLab's subject matter assistant based on Generative AI. Hellixia offers a wide range of functions to help you characterize a given problem domain:
 
 * **Automatic Causal Network Generator:** This tool automatically creates a Causal Bayesian Network based on the user's input question. It generates nodes, adds detailed comments for each causal link explaining the mechanism, determines causal effects (with values ranging from -100 to 100), and constructs the conditional probability tables. The network is then automatically formatted.
+
+<figure><img src="https://res.cloudinary.com/dvr3obmlj/image/upload/v1716299476/Rainbow_eib1uu.svg" alt="" width="188"><figcaption><p>Causal network automatically generated and formatted from the question: "Rainbow"</p></figcaption></figure>
+
 * **Automatic Semantic Network Generator**: This tool automatically creates a Semantic Network to capture the main dimensions related to the user's input question.
+
+<figure><img src="https://res.cloudinary.com/dvr3obmlj/image/upload/v1716303262/Rainbow_ASN_jc38js.svg" alt="" width="375"><figcaption><p>Semantic network automatically generated and formatted from the question: "Rainbow"</p></figcaption></figure>
+
 * **Dimension Elicitor**: Identify relevant dimensions of a problem domain by using a large set of keywords and create the corresponding nodes.
 * **Comment Generator**: Utilize a comprehensive set of keywords to pinpoint relevant dimensions within a problem domain and add them as comments to the nodes.
 * **Embedding Generator**: This tool generates embeddings that capture the semantics of nodes using high-dimensional vectors, facilitating the learning of semantic networks.
