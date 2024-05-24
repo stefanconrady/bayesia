@@ -1,12 +1,12 @@
 # Normalized Entropy
 
-### Normalized Entropy [](#h2__1831139854){#h2__1831139854}
+### Normalized Entropy [](#h2__1831139854)
 
 Normalized Entropy is a metric that takes into account the maximum possible value of Entropy and returns a normalized measure of the uncertainty associated with the variable:
 
 $${H\_N}(X) = \frac{{ H(X) }}{{ {{\log }_2}({S_X}) }}$$
 
-### Example [](#h2_1491730608){#h2_1491730608}
+### Example [](#h2_1491730608)
 
 In this new example, we now compare the variables X1 and X2, which each represent ball colors:
 
@@ -20,7 +20,7 @@ Normalized Entropy allows us to compare the degree of uncertainty even though th
 |           ![](https://bayesia.clickhelp.co/resources/Storage/bayesialab/Information-Theory/Entropy/X1.svg)           |           ![](https://bayesia.clickhelp.co/resources/Storage/bayesialab/Information-Theory/Entropy/X2.svg)           |
 | ![](https://bayesia.clickhelp.co/resources/Storage/bayesialab/Information-Theory/Entropy/BlueBalls25pct_300x169.png) | ![](https://bayesia.clickhelp.co/resources/Storage/bayesialab/Information-Theory/Entropy/AllColorsBalls_300x169.png) |
 
-### Usage [](#h2_519852009){#h2_519852009}
+### Usage [](#h2_519852009)
 
 In BayesiaLab, the values of Entropy and Normalized Entropy can be accessed in a number of ways:
 
@@ -37,6 +37,6 @@ In BayesiaLab, the values of Entropy and Normalized Entropy can be accessed in a
   * Entropy: `Entropy(?X1?, False)`
   * Normalized Entropy: `Entropy(?X1?, True)`
 
-### Demo Network [](#h2_1318485153){#h2_1318485153}
+### Demo Network [](#h2_1318485153)
 
 ![](https://res.cloudinary.com/dvr3obmlj/image/upload/v1692036394/xbl3_xmnk2g.svg) [NormalizedEntropy.xbl](https://res.cloudinary.com/dvr3obmlj/raw/upload/v1690480310/NormalizedEntropy_jtqymx.xbl)
